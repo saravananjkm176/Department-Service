@@ -1,0 +1,1 @@
+package com.s3.department.service.main.model;
